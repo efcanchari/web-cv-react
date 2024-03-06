@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Project from './Project';
+import Project from '../Project/Project';
 import projects from './projects.json';
 import './ProjectsPage.css';
 
