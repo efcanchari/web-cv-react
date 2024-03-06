@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/web-cv-react/static/css/main.92d94226.css",
+    "main.js": "/web-cv-react/static/js/main.7ba0dd36.js",
+    "static/js/453.454d9eb9.chunk.js": "/web-cv-react/static/js/453.454d9eb9.chunk.js",
+    "static/media/frank-profile.png": "/web-cv-react/static/media/frank-profile.d469224ccb2fbd60e2e6.png",
+    "index.html": "/web-cv-react/index.html",
+    "main.92d94226.css.map": "/web-cv-react/static/css/main.92d94226.css.map",
+    "main.7ba0dd36.js.map": "/web-cv-react/static/js/main.7ba0dd36.js.map",
+    "453.454d9eb9.chunk.js.map": "/web-cv-react/static/js/453.454d9eb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92d94226.css",
+    "static/js/main.7ba0dd36.js"
+  ]
+}
