@@ -1,0 +1,49 @@
+/* Header.css */
+
+.app-header {
+    background-color: #333;
+    color: #fff;
+    padding: 0.5rem;
+    text-align: center;
+}
+
+.navbar {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+.nav-links li {
+    margin: 0 1rem;
+}
+
+.nav-links a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    transition: background-color 0.3s;
+}
+
+.nav-links a:hover,
+.nav-links a:focus {
+    background-color: #555;
+}
+
+@media (max-width: 768px) {
+    .nav-links li {
+        margin: 0 0.5rem;
+    }
+
+    .nav-links a {
+        padding: 0.5rem;
+    }
+}

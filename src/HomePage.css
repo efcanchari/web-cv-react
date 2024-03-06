@@ -1,0 +1,25 @@
+.home-page {
+    text-align: center;
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+}
+
+.home-page h1 {
+    color: #333;
+    margin-top: 20px;
+}
+
+.home-page img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 6px solid orange;
+    display: block;
+    margin: 20px auto;
+}
+
+.home-page p {
+    color: #666;
+    margin: 10px 0;
+}

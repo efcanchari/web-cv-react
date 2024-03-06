@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Team Profile Generator",
+    "description": "This Node.js command-line application takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person",
+    "link": "https://efcanchari.github.io/team-profile-generator/",
+    "repo": "https://github.com/efcanchari/team-profile-generator",
+    "image": "/github.png"
+  },
+  {
+    "id": 2,
+    "title": "Daily Planner App",
+    "description": "The Work Day Scheduler is a simple calendar application designed for scheduling your workday. It allows users to save hourly appointments or tasks in a user-friendly interface. The application uses local storage to persist the data, so the users' inputs are saved even after the page is refreshed.",
+    "link": "https://efcanchari.github.io/daily-planner-app/",
+    "repo": "https://github.com/efcanchari/daily-planner-app",
+    "image": "/github.png"
+  },
+  {
+    "id": 3,
+    "title": "Password Generator",
+    "description": "This application allows employees to generate random passwords based on selected criteria. It's designed to run in a web browser and features a dynamic HTML and CSS interface powered by JavaScript.",
+    "link": "https://efcanchari.github.io/password-generator/",
+    "repo": "https://github.com/efcanchari/password-generator",
+    "image": "/github.png"
+  }
+]
