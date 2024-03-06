@@ -12,6 +12,7 @@ npx create-react-app .
 follow next commands to install dependencies
 ```
 npm install react-router-dom
+npm install gh-pages --save-dev
 ```
 
 ## Deploy React app
