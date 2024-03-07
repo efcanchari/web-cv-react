@@ -18,10 +18,13 @@
 /* Optional: Fix to ensure the ion-icon is vertically centered with the text, if you have accompanying text */
 ion-icon {
     vertical-align: middle;
-    font-size: 25px;
-    color: #0f5677;
+    font-size: 30px;
+    color: #000000;
     opacity: 1;
     margin: 0 5px;
+}
+ion-icon:hover {
+    color: orange;
 }
 
 .iframe-container {

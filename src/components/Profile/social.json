@@ -1,0 +1,32 @@
+[
+  {
+    "name": "GitHub",
+    "url": "https://github.com/efcanchari",
+    "icon": "logo-github"
+  },
+  {
+    "name": "Bitbucket",
+    "url": "https://bitbucket.org/efcanchari/workspace/repositories/",
+    "icon": "logo-bitbucket"
+  },
+  {
+    "name": "Webinars",
+    "url": "https://wiqu.atlassian.net/wiki/spaces/WIQU/pages/159776779/WiQU+Webinars",
+    "icon": "document"
+  },
+  {
+    "name": "Facebook",
+    "url": "https://www.facebook.com/ef.canchari",
+    "icon": "logo-facebook"
+  },
+  {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/in/elvis-frank-canchari-lapa-71a78a24",
+    "icon": "logo-linkedin"
+  },
+  {
+    "name": "Instagram",
+    "url": "https://www.instagram.com/e.f.canchari",
+    "icon": "logo-instagram"
+  }
+]

@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import profile from './frank-profile.png';
 import './Profile.css';
-// Ensure you have Bootstrap CSS imported in your project, e.g., in your index.js or App.js
+import socialLinks from './social.json';
 
 class Profile extends Component {
     render() {
@@ -10,27 +10,17 @@ class Profile extends Component {
                 <div>
                     <img src={profile} alt="Frank Lapa" className="profile-image"/>
                     <h1>Frank Lapa</h1>
-                    <h3 className="brand-statement">Atlassian Community Leader</h3>
-                    <p>DevOps & Atlassian SME</p>
+                    <h3>DevOps & Atlassian Solution Architect</h3>
+                    <h4>Atlassian Community Leader</h4>
+
                     <ul className="text-center list-inline">
-                        <li>
-                            <a href="https://www.facebook.com/ef.canchari" target="_blank"
-                               rel="noopener noreferrer">
-                                <ion-icon name="logo-facebook"></ion-icon>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.linkedin.com/in/elvis-frank-canchari-lapa-71a78a24"
-                               target="_blank" rel="noopener noreferrer">
-                                <ion-icon name="logo-linkedin"></ion-icon>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.instagram.com/e.f.canchari" target="_blank"
-                               rel="noopener noreferrer">
-                                <ion-icon name="logo-instagram"></ion-icon>
-                            </a>
-                        </li>
+                        {socialLinks.map((link, index) => (
+                            <li key={index}>
+                                <a href={link.url} target="_blank" rel="noopener noreferrer">
+                                    <ion-icon name={link.icon}></ion-icon>
+                                </a>
+                            </li>
+                        ))}
                     </ul>
                 </div>
 

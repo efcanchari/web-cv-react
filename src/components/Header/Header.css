@@ -36,7 +36,7 @@
 
 .nav-links a:hover,
 .nav-links a:focus {
-    background-color: #555;
+    background-color: orange;
 }
 
 @media (max-width: 768px) {
