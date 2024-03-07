@@ -17,7 +17,7 @@ npm install react-router-dom
 # deployment in github
 npm install gh-pages --save-dev
 
-# Enable boostrap in project
+# Enable boostrap in project, also add in index.js
 npm install bootstrap
 ```
 
