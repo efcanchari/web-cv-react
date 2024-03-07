@@ -19,6 +19,9 @@ npm install gh-pages --save-dev
 
 # Enable boostrap in project, also add in index.js
 npm install bootstrap
+
+# Enable icons, also add in index.js
+npm install ionicons
 ```
 
 ## Deploy React app

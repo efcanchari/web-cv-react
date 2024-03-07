@@ -1,0 +1,61 @@
+/* Ensure the list is centered and its items are displayed inline */
+.text-center.list-inline {
+    text-align: center;
+    padding-left: 0; /* Remove padding to align with container edges */
+}
+
+.text-center.list-inline li {
+    display: inline-block; /* Display list items inline but as block elements */
+    margin-right: 10px; /* Adjust spacing between items */
+}
+
+/* Optional: Ensure links within list items have no underlines and are styled as desired */
+.text-center.list-inline li a {
+    text-decoration: none;
+    color: inherit; /* Or any color of your choice */
+}
+
+/* Optional: Fix to ensure the ion-icon is vertically centered with the text, if you have accompanying text */
+ion-icon {
+    vertical-align: middle;
+    font-size: 25px;
+    color: #0f5677;
+    opacity: 1;
+    margin: 0 5px;
+}
+
+.iframe-container {
+    margin-top: 10px;
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 Aspect Ratio */
+    overflow: hidden;
+}
+
+.iframe-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.about{
+    padding: 30px 80px;
+}
+
+/* MyComponentStyles.css */
+.row-spacing {
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+
+.btn-download {
+    background-color: black !important; /* Override background color */
+    border-color: black !important; /* Ensure border color matches */
+}
+
+.btn-download:hover {
+    background-color: orange !important; /* Change to orange on hover */
+    border-color: orange !important; /* Adjust border color on hover */
+}
