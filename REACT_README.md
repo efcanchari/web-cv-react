@@ -11,8 +11,14 @@ npx create-react-app .
 ## install dependencies
 follow next commands to install dependencies
 ```
+# router for dynamic navigation
 npm install react-router-dom
+
+# deployment in github
 npm install gh-pages --save-dev
+
+# Enable boostrap in project
+npm install bootstrap
 ```
 
 ## Deploy React app
