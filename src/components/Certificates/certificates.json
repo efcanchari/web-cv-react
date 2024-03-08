@@ -1,0 +1,38 @@
+[
+  {
+    "title": "ITIL® Foundation ITSM",
+    "url": "https://mylogin.exin.nl/polarserver.asp?ToolName=CertificateCheckTool&LastName=Canchari%20Lapa&CertificateNumber=5563266.20484148&ModuleID=58",
+    "imageUrl": "images/cert-exin-itil.png",
+    "issuer": "EXIN"
+  },
+  {
+    "title": "DevOps Master",
+    "url": "https://mylogin.exin.nl/AppPool_3/polarserver.asp?ToolName=CertificateCheckTool&LastName=Canchari%20Lapa&CertificateNumber=5563266.20801027&ModuleID=630630&SID=EFA15D94BFEA162601D99EF2F791437F&PageID=0",
+    "imageUrl": "images/cert-exin-devops.png",
+    "issuer": "EXIN"
+  },
+  {
+    "title": "ACP-120 Jira Cloud Admin",
+    "url": "https://www.certmetrics.com/atlassian/public/badge.aspx?i=26&t=c&d=2021-09-06&ci=AT00136496",
+    "imageUrl": "images/cert-acp-120.png",
+    "issuer": "Atlassian"
+  },
+  {
+    "title": "ACP-400 JSD Admin",
+    "url": "https://www.certmetrics.com/atlassian/public/badge.aspx?i=4&t=c&d=2020-10-11&ci=AT00136496",
+    "imageUrl": "images/cert-acp-400-v2.png",
+    "issuer": "Atlassian"
+  },
+  {
+    "title": "ACP-600 Project Admin",
+    "url": "https://www.certmetrics.com/atlassian/public/badge.aspx?i=10&t=c&d=2019-09-18&ci=AT00136496",
+    "imageUrl": "images/cert-acp-600-v2.png",
+    "issuer": "Atlassian"
+  },
+  {
+    "title": "Expert Scrum Master",
+    "url": "http://www.europeanscrum.org/european-scrum-elvi-frank-canchari-lapa-15868-15893.html",
+    "imageUrl": "images/cert-scrum-master.png",
+    "issuer": "European Scrum"
+  }
+]
