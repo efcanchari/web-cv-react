@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/web-cv-react/static/css/main.439599fc.css",
-    "main.js": "/web-cv-react/static/js/main.8a8ccfe6.js",
+    "main.css": "/web-cv-react/static/css/main.3d9e7f2a.css",
+    "main.js": "/web-cv-react/static/js/main.7fe0d335.js",
     "static/js/453.454d9eb9.chunk.js": "/web-cv-react/static/js/453.454d9eb9.chunk.js",
     "static/media/frank-profile.png": "/web-cv-react/static/media/frank-profile.d469224ccb2fbd60e2e6.png",
-    "static/media/cert-exin-itil.png": "/web-cv-react/static/media/cert-exin-itil.750a1b79c525452c65e2.png",
+    "static/media/slick.svg": "/web-cv-react/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/web-cv-react/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/web-cv-react/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/web-cv-react/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/web-cv-react/index.html",
-    "main.439599fc.css.map": "/web-cv-react/static/css/main.439599fc.css.map",
-    "main.8a8ccfe6.js.map": "/web-cv-react/static/js/main.8a8ccfe6.js.map",
+    "main.3d9e7f2a.css.map": "/web-cv-react/static/css/main.3d9e7f2a.css.map",
+    "main.7fe0d335.js.map": "/web-cv-react/static/js/main.7fe0d335.js.map",
     "453.454d9eb9.chunk.js.map": "/web-cv-react/static/js/453.454d9eb9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.439599fc.css",
-    "static/js/main.8a8ccfe6.js"
+    "static/css/main.3d9e7f2a.css",
+    "static/js/main.7fe0d335.js"
   ]
 }
