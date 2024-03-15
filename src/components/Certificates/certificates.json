@@ -1,38 +1,93 @@
 [
   {
-    "title": "ITIL® Foundation ITSM",
-    "url": "https://mylogin.exin.nl/polarserver.asp?ToolName=CertificateCheckTool&LastName=Canchari%20Lapa&CertificateNumber=5563266.20484148&ModuleID=58",
-    "imageUrl": "images/cert-exin-itil.png",
-    "issuer": "EXIN"
+    "title": "HashiCorp Certified: Terraform Associate (003)",
+    "url": "https://www.credly.com/badges/383ea410-c8c5-4f23-96cc-17ff69e07f22/public_url",
+    "imageUrl": "images/cert-has-terraform.png",
+    "issuer": "Hashicorp",
+    "description": "Earners of the HashiCorp Certified: Terraform Associate certification know the basic concepts, skills, and use cases associated with open source HashiCorp Terraform. They understand and can utilize Terraform according to the certification objectives. Additionally, they understand why enterprises choose to extend Terraform Open Source with Terraform Enterprise to solve business critical objectives."
   },
   {
-    "title": "DevOps Master",
+    "title": "EXIN DevOps Master (DevOpsMaster)",
     "url": "https://mylogin.exin.nl/AppPool_3/polarserver.asp?ToolName=CertificateCheckTool&LastName=Canchari%20Lapa&CertificateNumber=5563266.20801027&ModuleID=630630&SID=EFA15D94BFEA162601D99EF2F791437F&PageID=0",
     "imageUrl": "images/cert-exin-devops.png",
-    "issuer": "EXIN"
+    "issuer": "EXIN",
+    "description": "Lead the way with EXIN DevOps Master™. EXIN DevOps Master™ is an advanced-level certification that tests candidates on their ability to develop and maintain sustainable work practices. It enables them to introduce and promote DevOps in their organization in order to better manage application and service life cycles whilst facilitating collaborative teamwork"
   },
   {
-    "title": "ACP-120 Jira Cloud Admin",
+    "title": "AWS Certified Cloud Practitioner",
+    "url": "https://cp.certmetrics.com/amazon/en/public/verify/credential/RLV87Q3KVNV4QR52",
+    "imageUrl": "images/cert-aws-practitioner.png",
+    "issuer": "Amazon",
+    "description": "The AWS Certified Cloud Practitioner validates foundational, high-level understanding of AWS Cloud, services, and terminology.  This is a good starting point on the AWS Certification journey for individuals with no prior IT or cloud experience switching to a cloud career or for line-of-business employees looking for foundational cloud literacy."
+  },
+  {
+    "title": "Atlassian Certified Expert",
+    "url": "https://www.certmetrics.com/atlassian/public/badge.aspx?i=72085&t=r&d=2021-10-18",
+    "imageUrl": "images/cert-acp-expert.png",
+    "issuer": "Atlassian",
+    "description": "Atlassian Certified Expert is Atlassian's most prestigious Certification. Atlassian Certified Experts hold at least four Atlassian Certified Professional-level credentials, demonstrating their expertise across multiple Atlassian products"
+  },
+  {
+    "title": "ACP-120: Atlassian Certified Jira Administrator for Cloud",
     "url": "https://www.certmetrics.com/atlassian/public/badge.aspx?i=26&t=c&d=2021-09-06&ci=AT00136496",
     "imageUrl": "images/cert-acp-120.png",
-    "issuer": "Atlassian"
+    "issuer": "Atlassian",
+    "description": "The Atlassian Certified Professional Jira Administrator for Cloud (ACP-JCA) manages, customizes, and configures Jira from within the Jira user interface, while ensuring the performance, scalability and day-to-day manageability of the product. The ACP-JCA has proven skills needed to optimize Jira Cloud for any development or business team"
   },
   {
-    "title": "ACP-400 JSD Admin",
-    "url": "https://www.certmetrics.com/atlassian/public/badge.aspx?i=4&t=c&d=2020-10-11&ci=AT00136496",
-    "imageUrl": "images/cert-acp-400-v2.png",
-    "issuer": "Atlassian"
+    "title": "ACP-100: Atlassian Certified Jira Administrator for Data Center",
+    "url": "https://www.certmetrics.com/atlassian/public/badge.aspx?i=1&t=c&d=2021-10-18&ci=AT00136496",
+    "imageUrl": "images/cert-acp-100.png",
+    "issuer": "Atlassian",
+    "description": "The Atlassian Certified Professional Jira Administrator (ACP-JA) manages, customizes, and configures Jira from within the Jira user interface, while ensuring the performance, scalability and day-to-day manageability of the product. The ACP-JA has proven skills needed to optimize Jira for any development or business team."
   },
   {
-    "title": "ACP-600 Project Admin",
+    "title": "ACP-620: Atlassian Certified in Managing Jira Projects for Cloud",
+    "url": "https://www.certmetrics.com/atlassian/public/badge.aspx?i=30&t=c&d=2023-10-28&ci=AT00136496",
+    "imageUrl": "images/cert-acp-620.png",
+    "issuer": "Atlassian",
+    "description": "The Managing Jira Cloud Projects Certification builds on the professional's existing agile skills, with a focus on optimizing the power of Jira Software for their development teams. This credential is for scrum masters, project administrators, project leads and board administrators who can configure and automate Jira Software Scrum and Kanban projects for classic and next-gen."
+  },
+  {
+    "title": "ACP-600: Atlassian Certified Jira Project Administrator for Data Center and Server",
     "url": "https://www.certmetrics.com/atlassian/public/badge.aspx?i=10&t=c&d=2019-09-18&ci=AT00136496",
-    "imageUrl": "images/cert-acp-600-v2.png",
-    "issuer": "Atlassian"
+    "imageUrl": "images/cert-acp-600.png",
+    "issuer": "Atlassian",
+    "description": "Certified Jira Project Administrators are the power users who know how to configure projects and boards, customize workflows and manage project permissions in their organization's Jira Server or Data Center instance. They live in Jira day-to-day, and can help scale their instance to meet the demand of their business, so their Jira Administrator and teams can get more work done."
+  },
+  {
+    "title": "ACP-400: Atlassian Certified Jira Service Desk Administrator",
+    "url": "https://www.certmetrics.com/atlassian/public/badge.aspx?i=4&t=c&d=2020-10-11&ci=AT00136496",
+    "imageUrl": "images/cert-acp-400.png",
+    "issuer": "Atlassian",
+    "description": "The Atlassian Certified Professional Jira Service Desk Administrator (ACP-JSD) manages, customizes, and configures Jira Service Desk. Certification in Jira Service Desk Administration covers the skills needed to set up and optimize Jira Service Desk for any service management team."
+  },
+  {
+    "title": "Atlassian Skills Badge: Issue Security In Jira",
+    "url": "https://www.certmetrics.com/atlassian/public/badge.aspx?i=22&t=c&d=2023-09-06&ci=AT00136496",
+    "imageUrl": "images/cert-asb-security.png",
+    "issuer": "Atlassian",
+    "description": "The Badge holder has extended their Jira skills by attending an Atlassian Skillbuilder course and passing an online quiz on Issue Security in Jira."
+  },
+  {
+    "title": "Atlassian Certified Expert Emeritus",
+    "url": "https://www.certmetrics.com/atlassian/public/badge.aspx?i=62&t=c&d=2024-01-18&ci=AT00136496",
+    "imageUrl": "images/cert-acp-emeritus.png",
+    "issuer": "Atlassian",
+    "description": "This non-expiring certification has been granted to demonstrate your commitment to the Atlassian certification program, as the Atlassian Certified Expert (ACE) standing has been retired."
   },
   {
     "title": "Expert Scrum Master",
     "url": "http://www.europeanscrum.org/european-scrum-elvi-frank-canchari-lapa-15868-15893.html",
     "imageUrl": "images/cert-scrum-master.png",
-    "issuer": "European Scrum"
+    "issuer": "European Scrum",
+    "description": "The Scrum Scrum & Scrum Master certification from European Scrum provides the  knowledge and skills in Agile and Scrum to be able to apply them in any complex organization, you can develop and maintain any product, project or service in Scrum, whether in the IT sector or in any other sector (software, marketing, HR, consulting, etc.) and allows you to act as a true coach, mentor, facilitator of Scrum teams, as a true Scrum Master"
+  },
+  {
+    "title": "ITIL® Foundation Certificate in IT Service Management (ITILF)",
+    "url": "https://mylogin.exin.nl/polarserver.asp?ToolName=CertificateCheckTool&LastName=Canchari%20Lapa&CertificateNumber=5563266.20484148&ModuleID=58",
+    "imageUrl": "images/cert-exin-itil.png",
+    "issuer": "EXIN",
+    "description": "ITIL Foundation is designed to give professionals a basic understanding of the ITIL framework. It focuses on awareness and comprehension rather than being able to apply ITIL principles. The basics of IT Service Management as a practice are covered as is the ITIL lifecycle."
   }
 ]

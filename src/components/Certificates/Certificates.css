@@ -1,4 +1,60 @@
+.content-cert{
+    margin-top: 20px;
+}
+
 .cert-container {
-    max-width: 100%;
-    height: auto;
+    width: 100%; /* Make the image responsive to the container width */
+    height: auto; /* Allow the image height to scale proportionally */
+    object-fit: contain; /* This will ensure the image fits within its box without being cropped */
+    margin: auto; /* Center the image within its container */
+}
+
+
+/* Make sure the parent container of the images has a fixed size as well */
+.client-photo {
+    display: table-row; /* flex */
+    justify-content: center;
+    align-items: center;
+    height: 180px; /* Adjust this value to fit the aspect ratio of your images */
+    width: 250px; /* Adjust this value to fit the aspect ratio of your images */
+    margin: 10px;
+    overflow: hidden;
+}
+
+.client-photo a {
+    color: #666; /* Change the link color */
+    text-decoration: none; /* Remove the underline */
+}
+
+.client-photo a:hover, .client-photo a:focus {
+    color: orange; /* Change color to orange on hover/focus */
+    font-weight: bold; /* Make the text bold */
+}
+
+
+.client-photo a img{
+    width: 100px;
+}
+.client-photo p {
+    margin-bottom: 0;
+}
+
+/* Styles for the react-slick slider */
+.slick-slide {
+    padding: 0 10px; /* Spacing between slides */
+}
+
+/* Styles for the navigation dots */
+.slick-dots {
+    bottom: -30px; /* Adjust the position of the navigation dots */
+}
+
+/* Adjust the size of the navigation dots if needed */
+.slick-dots li button:before {
+    font-size: 12px; /* Size of the navigation dots */
+}
+
+/* Adjust the size and color of the active navigation dot */
+.slick-dots li.slick-active button:before {
+    color: white; /* Color of the active navigation dot */
 }
