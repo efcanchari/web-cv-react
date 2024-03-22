@@ -14,31 +14,10 @@ class ContactPage extends Component {
 
     render() {
         return (
+
             <div className="contact-page">
-                <h2>Contact details</h2>
-                <div className="contact-links">
-                    <a href="mailto:frank.lapa@itexp.co.uk">
-                        <img src={emailIcon} alt="Email"/>
-                        <span>Email</span>
-                    </a>
-                    <a href="https://canchari.info/pdf" target="_blank" rel="noopener noreferrer">
-                        <img src={pdfIcon} alt="CV"/>
-                        <span>CV</span>
-                    </a>
-                    <a href="https://github.com/efcanchari/react-portfolio/" target="_blank" rel="noopener noreferrer">
-                        <img src={githubIcon} alt="GitHub"/>
-                        <span>GitHub</span>
-                    </a>
-                    <a href="https://linkedin.com/in/efcanchari/" target="_blank" rel="noopener noreferrer">
-                        <img src={linkedinIcon} alt="LinkedIn"/>
-                        <span>LinkedIn</span>
-                    </a>
-                </div>
 
-
-                <hr className="section-separator"/>
-
-                <h2>Contact Me</h2>
+                <h4 className="text-uppercase text-center">Contact Me</h4>
                 <form onSubmit={this.handleSubmit}>
                     <input type="text" placeholder="Name" name="name"/>
                     <input type="email" placeholder="Email" name="email"/>
@@ -46,6 +25,7 @@ class ContactPage extends Component {
                     <textarea placeholder="Your Message" name="message"></textarea>
                     <button type="submit">Send</button>
                 </form>
+
             </div>
         );
     }
