@@ -1,0 +1,64 @@
+/* ExperienceTimeline.css */
+
+.chrono-title {
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 30px; /* Spacing between title and timeline */
+    color: #333; /* Dark grey color for the title */
+    font-size: 2rem; /* Large font size for the title */
+}
+
+
+/* Custom styles for the chrono component can be targeted with its specific class names. */
+
+/* Card styles */
+.chrono-timeline-card-content {
+    background-color: #ffffff !important;
+}
+
+/* Title styles */
+.chrono-timeline-card-title {
+    color: #2d1e01!important; /* Color of the card titles to match the theme */
+}
+
+/* Subtitle styles */
+.chrono-timeline-card-subtitle {
+    color: black; /* Color of the card subtitles */
+}
+
+/* Detail Text styles */
+.chrono-timeline-card-detail {
+    color: #fff; /* Lighter text color for details */
+}
+
+/* Button styles for Read More */
+.chrono-timeline-button {
+    background-color: orange; /* Background color for buttons */
+    color: white; /* Text color for buttons */
+    border: none; /* Remove border for buttons */
+    padding: 10px 20px; /* Padding inside buttons */
+    border-radius: 5px; /* Rounded corners for buttons */
+    cursor: pointer; /* Cursor pointer for buttons */
+    transition: background-color 0.3s ease; /* Transition for button hover */
+}
+
+.chrono-timeline-button:hover {
+    background-color: #e69500; /* Darker orange for button hover state */
+}
+
+/* Define styles for 'my-card-media' if you're going to use media in your cards */
+.chrono-card-media {
+    /* styles */
+}
+
+ a {
+    color: darkgray !important;
+    text-decoration: none !important;
+    transition: color 0.3s ease, font-weight 0.3s ease !important;
+}
+
+/* Hover state of the link */
+a:hover {
+    color: orange !important;
+    font-weight: bold !important;
+}

@@ -1,0 +1,91 @@
+[
+  {
+    "title": "June 2021 - Present",
+    "cardTitle": "Atlassian & DevOps SME",
+    "cardSubtitle": "Freelancer at WiQU Ltd",
+    "cardDetailedText": "Architecture design, plan, and deployment of SaaS Atlassian migration to IaaS Atlassian solution on AWS integrated with Azure. Projects:  Atlassian DC products upgrade on AWS under S3, RDS, EC2 integrated with Azure AD directory and Bamboo SSO  Zephyr data conversion from Cloud into Xray DC using Python scripts to export and import data via REST API additionally Groovy for massive changes in the Jira Server using Atlassian SDK",
+    "url": "https://www.linkedin.com/company/wiqu/"
+  },
+  {
+    "title": "October 2020 - June 2021",
+    "cardTitle": "Atlassian & DevOps Solution Architect",
+    "cardSubtitle": "XALT - Germany, Atlassian Gold Solution Partner",
+    "cardDetailedText": "Architecture design and deployment by code on Cloud (AWS, Hetzner) for Atlassian solutions using Docker, Bamboo & Ansible. Atlassian tools integrations and customizations with Atlassian SDK, groovy and add-ons. Presales support from technical point of view.\n\nProjects:  EEX – Identity access management (IAM) on Jira + Insight  San Jose International Airport – Atlassian solution presales  Plixxent portal support and KB on Atlassian SaaS",
+    "url": "https://www.linkedin.com/company/xalt-business-consulting-gmbh/"
+  },
+  {
+    "title": "July 2019 - September 2020",
+    "cardTitle": "Atlassian Solution Architect / DevOps Engineer",
+    "cardSubtitle": "NTT Data - UK, Atlassian Gold Solution Partner",
+    "cardDetailedText": "Atlassian principal expert deploying DevOps projects under Atlassian tools such as Jira Software/SM, Confluence, Bitbucket, Bamboo, and integration with other solutions deployed in local servers and cloud (Azure, AWS). Working with Agile methodologies and ITMS.\n\nProjects:  DevOps in a Box – Automatic deployment of CI/CD tools on AWS and Azure  L3Harris – DevOps transformation under Atlassian + Artifactory  Virgin Media – DevOps transformation of Store app",
+    "url": "https://www.linkedin.com/company/ntt-data-uk/"
+  },
+  {
+    "title": "July 2018 - July 2019",
+    "cardTitle": "Stack Tools / Atlassian Technical Leader",
+    "cardSubtitle": "DXC Technology",
+    "cardDetailedText": "Open new technological lines for Cloud (AWS, Azure) and DevOps solutions focused on Atlassian tools (Jira, Confluence) and integrated with other solutions as Jenkins and GitLab, deploying also monitoring tools like Zabbix with ELK + Grafana. Applications on architectures with High Availability and Scalability, unattended and automatic deployment of infrastructure, and provisioning using Ansible and Terraform.\n\nProjects:  Automatic provisioning of Atlassian Tools with Ansible  Stack tools automatic deployment on Cloud with Terraform + Ansible  Carrefour – Zabbix monitoring with Elasticsearch & Grafana",
+    "url": "https://www.linkedin.com/company/dxctechnology/"
+  },
+  {
+    "title": "July 2017 - July 2018",
+    "cardTitle": "Atlassian Technical Lead",
+    "cardSubtitle": "Santander Bank",
+    "cardDetailedText": "Scripts development in Groovy & Jython, integration of different products with Jira and Confluence like ALM, GitHub, and Jenkins. Advanced customization of projects, workflows, levels of security, events. Atlassian consulting for the Scrum Masters with Agile methodology. BI and data analytics with Kibana, Elastic, Excel VBA (REST requests), and integrations with old software applications using RPA tools such as WorkFusion and UiPath. Another additional role I had was to analyze and define integrations of our tools with other applications. Projects include Scrum and SAFe process implementation on Jira, ARP Robotics Project with Elasticsearch And Jira, VBA Excel macros integrated with Jira via API REST.",
+    "url": "https://www.linkedin.com/company/banco-santander/"
+  },
+  {
+    "title": "January 2017 - July 2017",
+    "cardTitle": "Atlassian Expert / Technical Leader",
+    "cardSubtitle": "Itera Process, Atlassian Platinum Solution Partner",
+    "cardDetailedText": "Technical training of Atlassian products, customization, develop of add-ons, scripts and data mining. Working with Jira (Software, Service Desk, Core), Confluence, HipChat, Bitbucket, Bamboo and deploy these Atlassian tools on AWS. Projects include GMV– Technical users training in Atlassian CI/DC, Justice ministry – Deploy Confluence & Jira SD.",
+    "url": "https://www.linkedin.com/company/itera-process-consulting-e-it-institute/"
+  },
+  {
+    "title": "2016 - 2017",
+    "cardTitle": "Atlassian Expert / Team Leader",
+    "cardSubtitle": "atSistemas, Atlassian Platinum Solution Partner",
+    "cardDetailedText": "Technical consultant and software developer specialized in implementing (customization, configuration, and deployment) of different Atlassian products such as: Jira, Confluence, Bamboo (continuous integration), Bitbucket, HipChat. Also, integration with other tools using REST or SOAP, and developments in Java of add-ons, mobile, desktop app and scripting in Groovy. Projects include Ufinet - ITSM & Waterfall process on Atlassian solutions, URJC – Students portal support with Jira SD & Confluence.",
+    "url": "https://www.linkedin.com/company/atsistemas/"
+  },
+  {
+    "title": "2014 - 2016",
+    "cardTitle": "Services Consultant / Software Developer",
+    "cardSubtitle": "Econocom, Atlassian Silver Solution Partner",
+    "cardDetailedText": "ITSM technical deployment consultant specialized in ITIL, Jira Service Desk, CMDB, SQL, and tools customization for customer needs, using multiple programming languages (Java, C++, C#, .NET, SOAP, REST, Spring) coding ad-hoc solutions. International Projects include Ministry of Education – LANDesk MS deployment (Andorra), nH Hotels – LANDesk SD migration to Jira SD (Spain, Germany and France). National Projects include Seguros RGA - Project Management tool migrated to Atlassian, Comillas Pontifical University - Student support platform on Jira SD, Thales Group - LANDdesk Management Suit upgrade and migration, The Council of Tenerife - ITSM tool migration to Jira SD, Viscofan - IT Asset Management on LANDdesk, Ricoh - Business Intelligence on Jaspersoft.",
+    "url": "https://www.linkedin.com/company/econocom/"
+  },
+  {
+    "title": "2013 - 2014",
+    "cardTitle": "Junior Java Developer",
+    "cardSubtitle": "Liberty Seguros",
+    "cardDetailedText": "Front-end developer for various web application projects that are in the company, focused on developing with Maven Java EE, Spring, JSP, JSF, Tiles, jquery, able bootstrap, among other technologies and tools.",
+    "url": "https://www.linkedin.com/company/liberty-mutual-insurance/"
+  },
+  {
+    "title": "2011 - 2013",
+    "cardTitle": "System IT Support (Weekend job)",
+    "cardSubtitle": "Telemadrid",
+    "cardDetailedText": "System administrator and monitoring by Zabbix, VMWare (W2k3 and W2k8), and specific software Sony (iNews, Clipedit), also CSU (User Support Center) in-situ for resolving incidents (Hardware and software).",
+    "url": "https://www.linkedin.com/company/osiatis-austria/"
+  },
+  {
+    "title": "2010",
+    "cardTitle": "System IT Support",
+    "cardSubtitle": "Coyser S.A.",
+    "cardDetailedText": "Windows Server Administration (W2003), software and hardware maintenance of personal computers and servers, installation of routers and Cisco/Siemens IP phones.",
+    "url": "https://www.linkedin.com/company/coyser-s.a./"
+  },
+  {
+    "title": "2009",
+    "cardTitle": "IT Support Apprentice",
+    "cardSubtitle": "Chávez-Cano Consultor Internacional & Asociados – UE Madrid",
+    "cardDetailedText": "Deploy and administration of Windows Server 2008 (Active Directory, File Server, DNS, IIS, etc.), as well as technical support, update website using PHP, HTML, CSS and JavaScript."
+  },
+  {
+    "title": "Since 2012",
+    "cardTitle": "Software development, Atlassian Consulting and Training",
+    "cardSubtitle": "Freelance",
+    "cardDetailedText": "Participating in Software Development and Consulting freelance projects, also while studying in the UCM university, I did training in academies for engineering students in subjects such as: Object Oriented Programming, Data Structure, Advanced Algorithms, Java (SE, EE, ME), C, C++, C#, Integral Calculus among others.\n\nProjects:  Grupo Industrial - Mail entrance process on Jira integrate with GIM and SAP  Grupo Industrial - BI automatic data generation with Jaspersoft."
+  }
+]

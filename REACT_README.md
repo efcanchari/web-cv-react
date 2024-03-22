@@ -104,3 +104,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ```
 npm install react-slick slick-carousel
 ```
+
+### timeline effect
+```
+npm install aos react-scroll
+npm audit fix --force
+```
+
+### Fix issues
+```
+npm install react-scripts@latest --save
+```
+
+### install chrono
+```
+npm install react-chrono --save
+```
