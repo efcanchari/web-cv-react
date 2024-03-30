@@ -7,6 +7,7 @@ import Profile from "../Profile/Profile";
 import Certificates from "../Certificates/Certificates";
 import ExperienceTimeline from "../ExperienceTimeline/ExperienceTimeline";
 import EducationTimeline from "../EducationTimeline/EducationTimeline";
+import SkillsPage from "../SkillsPage/SkillsPage";
 
 class HomePage extends Component {
     render() {
@@ -28,11 +29,15 @@ class HomePage extends Component {
                     <EducationTimeline/>
                 </section>
 
-                <section id="projects">
+                <section id="skills" className="container-separator">
+                    <SkillsPage/>
+                </section>
+
+                <section id="projects" className="container-separator">
                     <ProjectsPage/>
                 </section>
 
-                <section id="contact">
+                <section id="contact" className="container-separator">
                     <ContactPage/>
                 </section>
             </div>

@@ -1,0 +1,36 @@
+.skills-container {
+    padding: 30px;
+}
+
+/*
+.project-image {
+    flex: 0 0 auto;
+    margin-right: 20px;
+}
+
+.project-image img {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+}
+
+.project-info {
+    flex: 1;
+    text-align: left;
+}
+
+.project-info h2 {
+    margin-top: 0;
+    font-size: 1.2rem;
+}
+
+.project-info a {
+    margin-bottom: 5px;
+    color: #1a0dab;
+    text-decoration: none;
+}
+
+.project-info a:hover {
+    text-decoration: underline;
+}
+*/

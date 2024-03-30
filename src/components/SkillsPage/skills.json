@@ -1,0 +1,161 @@
+{
+  "competencies": [
+    {
+      "id": 1,
+      "name": "Atlassian",
+      "skills": [
+        {
+          "name": "Atlassian Cloud",
+          "level": "99%"
+        },
+        {
+          "name": "Jira, Confluence, Crowd",
+          "level": "100%"
+        },
+        {
+          "name": "Atlassian Access",
+          "level": "98%"
+        },
+        {
+          "name": "Atlassian Forge, SDK",
+          "level": "85%"
+        },
+        {
+          "name": "Atlassian Community Leader",
+          "level": "90%"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Cloud & DevOps Tools",
+      "skills": [
+        {
+          "name": "AWS, Azure, Hetzner",
+          "level": "95%"
+        },
+        {
+          "name": "Docker, Kubernetes",
+          "level": "85%"
+        },
+        {
+          "name": "Terraform, Ansible",
+          "level": "93%"
+        },
+        {
+          "name": "Jenkins, Bitbucket pipelines",
+          "level": "97%"
+        },
+        {
+          "name": "Bitbucket, Github, Gitlab",
+          "level": "95%"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Languages & Frameworks",
+      "skills": [
+        {
+          "name": "Java, Spring Boot, Groovy",
+          "level": "99%"
+        },
+        {
+          "name": "C, C++, VBA, C#, VB Net",
+          "level": "85%"
+        },
+        {
+          "name": "React, JavaScript, PHP, HTML, CSS",
+          "level": "95%"
+        },
+        {
+          "name": "Python, PS, Batch, Shell",
+          "level": "85%"
+        },
+        {
+          "name": "Haskell, Prolog, OPL",
+          "level": "50%"
+        }
+      ]
+    },
+
+    {
+      "id": 3,
+      "name": "Agile & Project Management ",
+      "skills": [
+        {
+          "name": "Agile & Scrum Expertise",
+          "level": "100%"
+        },
+        {
+          "name": "Kanban & SAFe Implementations",
+          "level": "90%"
+        },
+        {
+          "name": "End-to-End Project Management",
+          "level": "98%"
+        },
+        {
+          "name": "ITIL & ITSM Implementation Mastery",
+          "level": "90%"
+        },
+        {
+          "name": "Leadership in Team Dynamics & Startups",
+          "level": "95%"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Database & BI Tools",
+      "skills": [
+        {
+          "name": "Microsoft SQL, MySQL, PostgresSQL",
+          "level": "95%"
+        },
+        {
+          "name": "EazyBI, Jaspersoft, PowerBI",
+          "level": "98%"
+        },
+        {
+          "name": "MongoDB",
+          "level": "80%"
+        },
+        {
+          "name": "Elasticsearch, Kibana, Grafana",
+          "level": "80%"
+        },
+        {
+          "name": "BI and Data Analysis",
+          "level": "90%"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Personal",
+      "skills": [
+        {
+          "name": "Complete Commitment",
+          "level": "100%"
+        },
+        {
+          "name": "Reliable Punctuality",
+          "level": "100%"
+        },
+        {
+          "name": "High Analytical Skills",
+          "level": "99%"
+        },
+        {
+          "name": "Innovative Leadership",
+          "level": "98%"
+        },
+        {
+          "name": "Effective Communicator",
+          "level": "100%"
+        }
+      ]
+    }
+  ]
+}

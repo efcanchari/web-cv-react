@@ -1,0 +1,58 @@
+
+.skill-wrapper {
+    background-color: black !important;
+    color: #ffffff !important;
+    margin: 10px 0px;
+    padding: 30px;
+}
+
+.skill-title {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    text-transform: uppercase;
+    color: orange;
+}
+
+.skill {
+    padding: 20px 20px;
+    color: #ffffff;
+}
+
+
+.skill-progress-div {
+    margin-bottom: 5px;
+}
+
+.skill-progress-div p {
+    color: #ffffff;
+    text-align: left;
+}
+
+.skill-progress-div p span {
+    float: right;
+    color: orange;
+}
+
+.skill-progress {
+    position: relative;
+    background-color: orange !important;
+    margin: 15px 0;
+    height: 3px;
+    z-index: 0;
+    overflow: visible;
+}
+
+.skill-determinate {
+    position: absolute;
+    height: 3px;
+    background-color: #ffffff;
+}
+
+.skill-determinate .skill-determinate-circle {
+    position: absolute;
+    right: 0%;
+    top: -7px;
+    color: #ffffff;
+    font-size: 18px;
+}
+
