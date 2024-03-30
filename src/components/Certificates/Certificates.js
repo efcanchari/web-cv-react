@@ -12,7 +12,7 @@ class Certificates extends Component {
             dots: true,
             infinite: true,
             speed: 500,
-            slidesToShow: 6, // Display 4 certificates at a time
+            slidesToShow: 8, // Display 4 certificates at a time
             slidesToScroll: 1, // Scroll through 4 certificates at a time
             autoplay: true, // Enable auto-play
             autoplaySpeed: 10000, // Set auto-play speed to 10 seconds
@@ -39,25 +39,27 @@ class Certificates extends Component {
         return (
             <div>
                 <h4 className="text-uppercase text-center">Certifications</h4>
-                <div className="container shadow">
-                    <Slider {...settings}>
-                        {certificates.map((cert, index) => (
-                            <div key={index} className="content content-cert">
-                                <div className="client-photo text-center">
-                                    <a href={cert.url} target="_blank" rel="noopener noreferrer">
-                                        <img className="cert-container"
-                                             src={`${process.env.PUBLIC_URL}/${cert.imageUrl}`} alt={cert.description}/>
-                                    </a>
-                                    <small><b>{cert.issuer}</b></small>
-                                    <a href={cert.url} target="_blank" rel="noopener noreferrer">
-                                        <p>{cert.title}</p>
-                                    </a>
+                <Slider {...settings}>
+                    {certificates.map((cert, index) => (
+                        <div key={index} className="content content-cert">
+                            <div className="client-photo text-center">
+                                <a href={cert.url} target="_blank" rel="noopener noreferrer">
+                                    <img className="cert-container"
+                                         src={`${process.env.PUBLIC_URL}/${cert.imageUrl}`} alt={cert.description}/>
+                                </a>
+                                <small><b>{cert.issuer}</b></small>
+                                <a href={cert.url} target="_blank" rel="noopener noreferrer">
+                                    <p>{cert.title}</p>
+                                </a>
 
-                                </div>
                             </div>
-                            ))}
-                    </Slider>
-                </div>
+                        </div>
+                    ))}
+                </Slider>
+
+
+                <br/>
+
             </div>
         );
     }

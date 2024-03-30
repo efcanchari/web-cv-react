@@ -21,16 +21,16 @@ class HomePage extends Component {
                     <Certificates/>
                 </section>
 
+                <section id="skills" className="container-separator">
+                    <SkillsPage/>
+                </section>
+
                 <section id="experience" className="container-separator">
                     <ExperienceTimeline/>
                 </section>
 
                 <section id="education" className="container-separator">
                     <EducationTimeline/>
-                </section>
-
-                <section id="skills" className="container-separator">
-                    <SkillsPage/>
                 </section>
 
                 <section id="projects" className="container-separator">
