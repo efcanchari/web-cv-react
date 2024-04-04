@@ -97,7 +97,7 @@ class Profile extends Component {
 
                     <div className="row">
                         <div className="row-spacing col-xs-12 col-sm-12 col-md-12 text-center">
-                            <a href="cv/CV_Elvis_Canchari_EN.pdf" download="CV_Elvis_Canchari_EN.pdf"
+                            <a href="cv/CV_Elvis_Canchari_EN-2024.pdf" download="CV_Elvis_Canchari_EN.pdf"
                                className="btn btn-primary btn-download">Download CV</a>
                         </div>
                     </div>

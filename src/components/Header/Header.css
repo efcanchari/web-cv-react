@@ -28,7 +28,7 @@
 }
 
 .nav-links a {
-    color: #fff;
+    color: #fff !important;
     text-decoration: none;
     padding:1rem 1rem;
     transition: background-color 0.3s;
@@ -36,7 +36,8 @@
 
 .nav-links a:hover,
 .nav-links a:focus {
-    background-color: orange;
+    background-color: orange !important;
+    color: #333 !important;
 }
 
 @media (max-width: 768px) {

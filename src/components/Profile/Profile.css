@@ -56,9 +56,11 @@ ion-icon:hover {
 .btn-download {
     background-color: black !important; /* Override background color */
     border-color: black !important; /* Ensure border color matches */
+    color: #fff !important;
 }
 
 .btn-download:hover {
     background-color: orange !important; /* Change to orange on hover */
     border-color: orange !important; /* Adjust border color on hover */
+    color: #333 !important;
 }
