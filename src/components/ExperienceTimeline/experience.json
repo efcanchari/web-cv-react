@@ -63,29 +63,9 @@
     "url": "https://www.linkedin.com/company/liberty-mutual-insurance/"
   },
   {
-    "title": "2011 - 2013",
-    "cardTitle": "System IT Support (Weekend job)",
-    "cardSubtitle": "Telemadrid",
-    "cardDetailedText": "System administrator and monitoring by Zabbix, VMWare (W2k3 and W2k8), and specific software Sony (iNews, Clipedit), also CSU (User Support Center) in-situ for resolving incidents (Hardware and software).",
-    "url": "https://www.linkedin.com/company/osiatis-austria/"
-  },
-  {
-    "title": "2010",
-    "cardTitle": "System IT Support",
-    "cardSubtitle": "Coyser S.A.",
-    "cardDetailedText": "Windows Server Administration (W2003), software and hardware maintenance of personal computers and servers, installation of routers and Cisco/Siemens IP phones.",
-    "url": "https://www.linkedin.com/company/coyser-s.a./"
-  },
-  {
-    "title": "2009",
-    "cardTitle": "IT Support Apprentice",
-    "cardSubtitle": "Chávez-Cano Consultor Internacional & Asociados – UE Madrid",
-    "cardDetailedText": "Deploy and administration of Windows Server 2008 (Active Directory, File Server, DNS, IIS, etc.), as well as technical support, update website using PHP, HTML, CSS and JavaScript."
-  },
-  {
-    "title": "Since 2012",
-    "cardTitle": "Software development, Atlassian Consulting and Training",
-    "cardSubtitle": "Freelance",
-    "cardDetailedText": "Participating in Software Development and Consulting freelance projects, also while studying in the UCM university, I did training in academies for engineering students in subjects such as: Object Oriented Programming, Data Structure, Advanced Algorithms, Java (SE, EE, ME), C, C++, C#, Integral Calculus among others.\n\nProjects:  Grupo Industrial - Mail entrance process on Jira integrate with GIM and SAP  Grupo Industrial - BI automatic data generation with Jaspersoft."
+    "title": "2010 - 2013",
+    "cardTitle": "IT Systems Specialist",
+    "cardSubtitle": "Madrid",
+    "cardDetailedText": "As I progressed through roles from an IT Support Apprentice to a System IT Support and then a\nSystems Support Specialist, I honed my skills in server administration, system monitoring, and\ntechnical troubleshooting. Starting with foundational server deployment and web development, I\nadvanced to managing complex server environments and providing critical in-situ support for\nhardware and software incidents in dynamic settings. Companies; Telemadrid: Monitored systems with Zabbix, VMware; managed Windows Servers. Resolved\nhardware and software incidents, supported broadcast software. Coyser S.A.: Administered Windows Server 2003; maintained PCs and servers. Installed\nrouters and Cisco/Siemens IP phones. Chávez-Cano Consultor Internacional: Deployed Windows Server 2008; provided technical\nsupport. Updated website using PHP, HTML, CSS, and JavaScript."
   }
 ]

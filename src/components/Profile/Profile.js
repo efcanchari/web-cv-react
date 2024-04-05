@@ -62,33 +62,33 @@ class Profile extends Component {
                         <div className="col-md-4 col-sm-12 col-xs-12">
                             <div className="iframe-container">
                                 <iframe
-                                    src="https://www.youtube.com/embed/zxztVqlvadQ?rel=0"
+                                    src="https://www.youtube.com/embed/I9YT8UTn-II?si=9Mln_oCy5neFXHaB"
                                     frameBorder="0"
                                     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                                     allowFullScreen
-                                    title="Video 1"
+                                    title="Atlassian ACE Event"
                                 ></iframe>
                             </div>
                         </div>
                         <div className="col-md-4 col-sm-12 col-xs-12">
                             <div className="iframe-container">
                                 <iframe
-                                    src="https://www.youtube.com/embed/giNSb5AisC4?rel=0"
+                                    src="https://www.youtube.com/embed/p5pMQYQjnMY?si=CqbuBLdjKtB9F3DT"
                                     frameBorder="0"
-                                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                     allowFullScreen
-                                    title="Video 2"
+                                    title="ACP-620 Preparation"
                                 ></iframe>
                             </div>
                         </div>
                         <div className="col-md-4 col-sm-12 col-xs-12">
                             <div className="iframe-container">
                                 <iframe
-                                    src="https://www.youtube.com/embed/3Cv23wescdk?rel=0"
+                                    src="https://www.youtube.com/embed/PGBNNkE5I_k?si=EIQjUZ6LIPrIazPs"
                                     frameBorder="0"
-                                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                     allowFullScreen
-                                    title="Video 3"
+                                    title="Atlassian Unleash in Dublin"
                                 ></iframe>
                             </div>
                         </div>
