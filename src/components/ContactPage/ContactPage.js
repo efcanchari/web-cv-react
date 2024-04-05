@@ -1,34 +1,31 @@
-import React, { Component } from 'react';
-import './ContactPage.css'; // Make sure to create this CSS file
-import emailIcon from './email-icon.png'; // Path to your email icon
-import pdfIcon from './pdf-icon.png'; // Path to your PDF icon
-import githubIcon from './github-icon.png'; // Path to your GitHub icon
-import linkedinIcon from './linkedin-icon.png'; // Path to your LinkedIn icon
+import React, { useEffect } from 'react';
+import './ContactPage.css'; // Ensure this CSS file exists
 
-class ContactPage extends Component {
-    handleSubmit = (event) => {
-        event.preventDefault();
-        // You'll need to implement what happens when the form is submitted
-        console.log("Form submitted!");
-    }
+const ContactPage = () => {
+    // Effect hook to dynamically load the Calendly script
+    useEffect(() => {
+        const script = document.createElement('script');
+        script.src = 'https://assets.calendly.com/assets/external/widget.js';
+        script.async = true;
+        document.body.appendChild(script);
 
-    render() {
-        return (
+        // Cleanup script when component unmounts
+        return () => {
+            document.body.removeChild(script);
+        };
+    }, []);
 
-            <div className="contact-page">
+    return (
+        <div className="contact-page">
+            <h4 className="text-uppercase text-center">Contact Me</h4>
 
-                <h4 className="text-uppercase text-center">Contact Me</h4>
-                <form onSubmit={this.handleSubmit}>
-                    <input type="text" placeholder="Name" name="name"/>
-                    <input type="email" placeholder="Email" name="email"/>
-                    <input type="text" placeholder="Reason" name="reason"/>
-                    <textarea placeholder="Your Message" name="message"></textarea>
-                    <button type="submit">Send</button>
-                </form>
-
+            {/* Calendly inline widget */}
+            <div className="calendly-inline-widget"
+                 data-url="https://calendly.com/efcanchari/30-minute?primary_color=ffa500"
+                 style={{ minWidth: '320px', height: '700px' }}>
             </div>
-        );
-    }
+        </div>
+    );
 }
 
 export default ContactPage;

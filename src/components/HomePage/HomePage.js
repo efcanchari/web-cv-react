@@ -33,10 +33,6 @@ class HomePage extends Component {
                     <EducationTimeline/>
                 </section>
 
-                <section id="projects" className="container-separator">
-                    <ProjectsPage/>
-                </section>
-
                 <section id="contact" className="container-separator">
                     <ContactPage/>
                 </section>
