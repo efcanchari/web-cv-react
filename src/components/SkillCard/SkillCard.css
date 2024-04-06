@@ -4,6 +4,7 @@
     color: #ffffff !important;
     margin: 10px 0px;
     padding: 30px;
+    min-width: 300px !important;
 }
 
 .skill-title {

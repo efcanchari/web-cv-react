@@ -13,10 +13,10 @@ class Header extends Component {
                             <li><a href="#experience">Experience</a></li>
                             <li><a href="#skills">Skills</a></li>
                             <li><a href="#education">Education</a></li>
-                            <li><a href="#clients">Recommendations</a></li>
-                            <li><a href="#portfolios">Projects</a></li>
-                            <li><a href="#services">Services</a></li>
-                            <li><a href="#interest">Interest</a></li>
+                            <li><a href="#recommendations">Recommendations</a></li>
+                            <li><a href="https://www.meetup.com/dublin-atlassian-community-events/" target="_blank">Events</a></li>
+                            <li><a href="#contact">Projects</a></li>
+                            <li><a href="#contact">Interest</a></li>
                             <li><a href="#contact">Contact</a></li>
                         </ul>
                     </div>
