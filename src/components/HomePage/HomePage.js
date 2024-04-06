@@ -13,7 +13,7 @@ class HomePage extends Component {
     render() {
         return (
             <div>
-                <section id="home" className="home-page container-separator">
+                <section id="about" className="home-page container-separator">
                     <Profile/>
                 </section>
 
