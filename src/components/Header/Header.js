@@ -10,13 +10,17 @@ class Header extends Component {
                     <div className="container-fluid">
                         <ul className="nav-links">
                             <li><a href="#header">About</a></li>
-                            <li><a href="#experience">Experience</a></li>
                             <li><a href="#skills">Skills</a></li>
+                            <li><a href="#experience">Experience</a></li>
                             <li><a href="#education">Education</a></li>
-                            <li><a href="#recommendations">Recommendations</a></li>
-                            <li><a href="https://www.meetup.com/dublin-atlassian-community-events/" target="_blank">Events</a></li>
+                            <li><a
+                                href="https://www.linkedin.com/in/efcanchari/details/recommendations/?detailScreenTabIndex=0"
+                                target="_blank">Recommendations</a></li>
+                            <li><a href="https://www.meetup.com/dublin-atlassian-community-events/"
+                                   target="_blank">Events</a></li>
                             <li><a href="#contact">Projects</a></li>
-                            <li><a href="#contact">Interest</a></li>
+                            <li><a href="https://www.linkedin.com/in/efcanchari/recent-activity/all/"
+                                   target="_blank">Posts</a></li>
                             <li><a href="#contact">Contact</a></li>
                         </ul>
                     </div>
