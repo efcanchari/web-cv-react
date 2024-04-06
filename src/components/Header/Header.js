@@ -19,7 +19,6 @@ class Header extends Component {
                                 target="_blank">Recommendations</a></li>
                             <li><a href="https://www.meetup.com/dublin-atlassian-community-events/"
                                    target="_blank">Events</a></li>
-
                             <li><a href="https://www.linkedin.com/in/efcanchari/recent-activity/all/"
                                    target="_blank">Posts</a></li>
                             <li><a href="#contact">Contact</a></li>
