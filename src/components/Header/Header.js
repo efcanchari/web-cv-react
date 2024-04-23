@@ -14,7 +14,7 @@ class Header extends Component {
                             <li><a href="#about">About</a></li>
                             <li><a href="#contact">Contact</a></li>
                             <li><a href="cv/CV_Elvis_Canchari_EN_SRE.pdf"
-                                   download="CV_Elvis_Canchari_EN.pdf">PDF CV</a>
+                                   download="CV_Elvis_Canchari_EN.pdf">PDF-CV</a>
                             </li>
                             <li><a href="#certificates">Certificates</a></li>
                             <li><a href="#skills">Skills</a></li>
