@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/web-cv-react/static/css/main.8e73528f.css",
-    "main.js": "/web-cv-react/static/js/main.bfa8626d.js",
+    "main.js": "/web-cv-react/static/js/main.90d0d3cf.js",
     "static/js/453.454d9eb9.chunk.js": "/web-cv-react/static/js/453.454d9eb9.chunk.js",
     "static/media/profile-pic-v2.jpeg": "/web-cv-react/static/media/profile-pic-v2.9d6d1a836a3a9116d0e1.jpeg",
     "static/media/frank-profile.png": "/web-cv-react/static/media/frank-profile.d469224ccb2fbd60e2e6.png",
@@ -11,11 +11,11 @@
     "static/media/slick.ttf": "/web-cv-react/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/web-cv-react/static/media/slick.295183786cd8a1389865.woff",
     "main.8e73528f.css.map": "/web-cv-react/static/css/main.8e73528f.css.map",
-    "main.bfa8626d.js.map": "/web-cv-react/static/js/main.bfa8626d.js.map",
+    "main.90d0d3cf.js.map": "/web-cv-react/static/js/main.90d0d3cf.js.map",
     "453.454d9eb9.chunk.js.map": "/web-cv-react/static/js/453.454d9eb9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8e73528f.css",
-    "static/js/main.bfa8626d.js"
+    "static/js/main.90d0d3cf.js"
   ]
 }
