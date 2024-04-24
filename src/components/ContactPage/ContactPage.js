@@ -21,7 +21,7 @@ const ContactPage = () => {
 
             {/* Calendly inline widget */}
             <div className="calendly-inline-widget"
-                 data-url="https://calendly.com/efcanchari/30-minute?primary_color=ffa500"
+                 data-url="https://calendly.com/efcanchari/sync"
                  style={{ minWidth: '320px', height: '700px' }}>
             </div>
         </div>
