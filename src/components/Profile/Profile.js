@@ -44,16 +44,15 @@ class Profile extends Component {
                         <div className="col col-md-12">
                             <p className="text-justify about">
                                 Hey there! 👋 I’m a seasoned Platform & DevOps Lead Engineer with a deep passion for
-                                designing and implementing cutting-edge technology solutions.
-                                Over the past decade, I've led numerous projects from inception to completion,
-                                specializing in migrations, new implementations, and integrations,
-                                including extensive work on cloud projects. My expertise in Infrastructure as Code
-                                (IaaC) with tools like Terraform and Ansible, alongside Kubernetes, complements my
-                                architectural and development skills, ensuring robust and scalable systems. Currently,
-                                I'm an active Atlassian Community Leader and Emeritus Expert, guiding fellow Atlassian
-                                aficionados. With a rich background in both the technical and leadership aspects of
-                                projects, I'm your go-to expert for transforming complex challenges into successful
-                                deployments. 🚀
+                                designing and implementing cutting-edge technology solutions. Over the past decade,
+                                I've led numerous projects from inception to completion, specializing in migrations,
+                                new implementations, and integrations, including extensive work on cloud projects.
+                                My expertise in Infrastructure as Code (IaaC) with tools like Terraform and Ansible,
+                                alongside Kubernetes, complements my architectural and development skills,
+                                ensuring robust and scalable systems. Currently, I'm also an Atlassian Emeritus
+                                Expert and Community Leader. With a rich background in both the technical and
+                                leadership aspects of projects, I'm your go-to expert for transforming complex
+                                challenges into successful deployments. 🚀
                             </p>
                         </div>
                     </div>
