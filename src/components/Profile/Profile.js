@@ -43,17 +43,17 @@ class Profile extends Component {
                     <div className="row">
                         <div className="col col-md-12">
                             <p className="text-justify about">
-                                Hey there! 👋 I'm a passionate Solution Architect who loves diving deep into the vast
-                                oceans of DevOps and emerging with some shiny, techy treasures. With over a decade of
-                                decoding the tech realm, I've also donned the entrepreneurial hat, founding and leading
-                                a slew of digital startups—including being the captain (CEO) of one! 🚀
-
-                                Currently championing the cause of Atlassian enthusiasts in Dublin (though I rock out in
-                                London), I wear the proud badge of Atlassian Community Leader. Plus, I've got the
-                                Atlassian
-                                Certified Expert shield in my inventory, making me your go-to wizard for all things
-                                Jira,
-                                Confluence, and more.
+                                Hey there! 👋 I’m a seasoned Platform & DevOps Lead Engineer with a deep passion for
+                                designing and implementing cutting-edge technology solutions.
+                                Over the past decade, I've led numerous projects from inception to completion,
+                                specializing in migrations, new implementations, and integrations,
+                                including extensive work on cloud projects. My expertise in Infrastructure as Code
+                                (IaaC) with tools like Terraform and Ansible, alongside Kubernetes, complements my
+                                architectural and development skills, ensuring robust and scalable systems. Currently,
+                                I'm an active Atlassian Community Leader and Emeritus Expert, guiding fellow Atlassian
+                                aficionados. With a rich background in both the technical and leadership aspects of
+                                projects, I'm your go-to expert for transforming complex challenges into successful
+                                deployments. 🚀
                             </p>
                         </div>
                     </div>
