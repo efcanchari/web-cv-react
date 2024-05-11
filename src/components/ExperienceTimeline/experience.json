@@ -3,28 +3,28 @@
     "title": "June 2021 - Present",
     "cardTitle": "Atlassian & DevOps SME",
     "cardSubtitle": "Freelancer at WiQU Ltd",
-    "cardDetailedText": "Architecture design, plan, and deployment of SaaS Atlassian migration to IaaS Atlassian solution on AWS integrated with Azure. Projects:  Atlassian DC products upgrade on AWS under S3, RDS, EC2 integrated with Azure AD directory and Bamboo SSO  Zephyr data conversion from Cloud into Xray DC using Python scripts to export and import data via REST API additionally Groovy for massive changes in the Jira Server using Atlassian SDK",
+    "cardDetailedText": "As a Cloud Platform Lead Engineer freelancing through WiQU, I specialized in leading cloud, migrations and DevOps initiatives, adept at orchestrating the transition from on-premises systems, to advanced cloud solutions using AWS and Azure. My expertise in crafting robust disaster, recovery strategies, constructing CI/CD pipelines, and managing scalable, high-availability cloud, architectures was demonstrated through the proficient use of Terraform, Kubernetes, Ansible, Jenkins, Python, DynamoDB, Docker, and Kubernetes. My projects emphasized continuous, integration and deployment, cloud security, and resilient infrastructure designs (including VPC,, ALB, NLB, S3) to ensure seamless, zero-downtime operations.",
     "url": "https://www.linkedin.com/company/wiqu/"
   },
   {
     "title": "October 2020 - June 2021",
     "cardTitle": "Atlassian & DevOps Solution Architect",
     "cardSubtitle": "XALT - Germany, Atlassian Gold Solution Partner",
-    "cardDetailedText": "Architecture design and deployment by code on Cloud (AWS, Hetzner) for Atlassian solutions using Docker, Bamboo & Ansible. Atlassian tools integrations and customizations with Atlassian SDK, groovy and add-ons. Presales support from technical point of view.\n\nProjects:  EEX – Identity access management (IAM) on Jira + Insight  San Jose International Airport – Atlassian solution presales  Plixxent portal support and KB on Atlassian SaaS",
+    "cardDetailedText": "In this role, I specialized in the architectural design and deployment of Atlassian solutions across, cloud platforms like AWS, utilizing Kubernetes for orchestration. I embraced infrastructure as, code with Terraform and Ansible to boost automation and scalability. Key responsibilities included, crafting CI/CD pipelines with Bamboo and integrating advanced monitoring tools such as, Prometheus and Grafana, supporting sophisticated DevOps initiatives and strategic business, solutions.",
     "url": "https://www.linkedin.com/company/xalt-business-consulting-gmbh/"
   },
   {
     "title": "July 2019 - September 2020",
     "cardTitle": "Atlassian Solution Architect / DevOps Engineer",
     "cardSubtitle": "NTT Data - UK, Atlassian Gold Solution Partner",
-    "cardDetailedText": "Atlassian principal expert deploying DevOps projects under Atlassian tools such as Jira Software/SM, Confluence, Bitbucket, Bamboo, and integration with other solutions deployed in local servers and cloud (Azure, AWS). Working with Agile methodologies and ITMS.\n\nProjects:  DevOps in a Box – Automatic deployment of CI/CD tools on AWS and Azure  L3Harris – DevOps transformation under Atlassian + Artifactory  Virgin Media – DevOps transformation of Store app",
+    "cardDetailedText": "Atlassian principal expert deploying DevOps projects under Atlassian tools such as Jira Software/SM, Confluence, Bitbucket, Bamboo, and integration with other solutions deployed in local servers and cloud (Azure, AWS). Working with Agile methodologies and ITMS., , Projects:  DevOps in a Box – Automatic deployment of CI/CD tools on AWS and Azure  L3Harris – DevOps transformation under Atlassian + Artifactory  Virgin Media – DevOps transformation of Store app",
     "url": "https://www.linkedin.com/company/ntt-data-uk/"
   },
   {
     "title": "July 2018 - July 2019",
     "cardTitle": "Stack Tools / Atlassian Technical Leader",
     "cardSubtitle": "DXC Technology",
-    "cardDetailedText": "Open new technological lines for Cloud (AWS, Azure) and DevOps solutions focused on Atlassian tools (Jira, Confluence) and integrated with other solutions as Jenkins and GitLab, deploying also monitoring tools like Zabbix with ELK + Grafana. Applications on architectures with High Availability and Scalability, unattended and automatic deployment of infrastructure, and provisioning using Ansible and Terraform.\n\nProjects:  Automatic provisioning of Atlassian Tools with Ansible  Stack tools automatic deployment on Cloud with Terraform + Ansible  Carrefour – Zabbix monitoring with Elasticsearch & Grafana",
+    "cardDetailedText": "Open new technological lines for Cloud (AWS, Azure) and DevOps solutions focused on Atlassian tools (Jira, Confluence) and integrated with other solutions as Jenkins and GitLab, deploying also monitoring tools like Zabbix with ELK + Grafana. Applications on architectures with High Availability and Scalability, unattended and automatic deployment of infrastructure, and provisioning using Ansible and Terraform., , Projects:  Automatic provisioning of Atlassian Tools with Ansible  Stack tools automatic deployment on Cloud with Terraform + Ansible  Carrefour – Zabbix monitoring with Elasticsearch & Grafana",
     "url": "https://www.linkedin.com/company/dxctechnology/"
   },
   {
@@ -66,7 +66,7 @@
     "title": "2010 - 2013",
     "cardTitle": "IT Systems Specialist",
     "cardSubtitle": "Madrid",
-    "cardDetailedText": "As I progressed through roles from an IT Support Apprentice to a System IT Support and then a\nSystems Support Specialist, I honed my skills in server administration, system monitoring, and\ntechnical troubleshooting. Starting with foundational server deployment and web development, I\nadvanced to managing complex server environments and providing critical in-situ support for\nhardware and software incidents in dynamic settings. Companies; Telemadrid: Monitored systems with Zabbix, VMware; managed Windows Servers. Resolved\nhardware and software incidents, supported broadcast software. Coyser S.A.: Administered Windows Server 2003; maintained PCs and servers. Installed\nrouters and Cisco/Siemens IP phones. Chávez-Cano Consultor Internacional: Deployed Windows Server 2008; provided technical\nsupport. Updated website using PHP, HTML, CSS, and JavaScript.",
+    "cardDetailedText": "As I progressed through roles from an IT Support Apprentice to a System IT Support and then a, Systems Support Specialist, I honed my skills in server administration, system monitoring, and, technical troubleshooting. Starting with foundational server deployment and web development, I, advanced to managing complex server environments and providing critical in-situ support for, hardware and software incidents in dynamic settings. Companies; Telemadrid: Monitored systems with Zabbix, VMware; managed Windows Servers. Resolved, hardware and software incidents, supported broadcast software. Coyser S.A.: Administered Windows Server 2003; maintained PCs and servers. Installed, routers and Cisco/Siemens IP phones. Chávez-Cano Consultor Internacional: Deployed Windows Server 2008; provided technical, support. Updated website using PHP, HTML, CSS, and JavaScript.",
     "url": "https://www.linkedin.com/company/liberty-mutual-insurance/"
   }
 ]
